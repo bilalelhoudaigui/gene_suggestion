@@ -53,8 +53,12 @@ Run with coverage report:
 
 The `makefile` can be used to automate the processes mentioned above, here are the commands:
 
-`make install` : installs both system-packages and python-packages
-`make clean` : cleans up the app
-`make tests` : runs the all the tests
-`make run` : starts the application
-`make all` : performs clean-up, installation, run tests, and starts the application.
+* `make install` : installs both system-packages and python-packages
+
+* `make clean` : cleans up the app
+
+* `make tests` : runs the all the tests
+
+* `make run` : starts the application
+
+* `make all` : performs clean-up, installation, run tests, and starts the application.
